@@ -7,7 +7,7 @@ public class BatController : MonoBehaviour
     private Rigidbody rb;
     [SerializeField] private float fallForce;
     [SerializeField] private float fallMultiplyer;
-    [SerializeField] private KeyCode enemyFall;
+  //[SerializeField] private KeyCode enemyFall;
     private float healthReference;
     
 
